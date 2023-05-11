@@ -3,12 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Epilogue', sans-serif;
+    background-color: tan;
+    font-family: 'Tangerine', serif;
     font-size: 0.95em;
     line-height: 1.5em;
-}
-
+ }
 ::selection {
     color: #000; 
     background: #ff0;
